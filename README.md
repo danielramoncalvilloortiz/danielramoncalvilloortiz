@@ -5,6 +5,7 @@
 - 📫 Podras contactarme desde las siguientes redes sociales.
 - Facebook: https://www.facebook.com/danielramon.calvilloortiz/
 - Linkedin: https://www.linkedin.com/in/daniel-ramon-calvillo-ortiz-a59990194/
+- Cuenta de aprendizaje en google: https://developers.google.com/profile/u/DanielCalvillo?utm_source=developer.android.com
 
 <!---
 danielramoncalvilloortiz/danielramoncalvilloortiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
