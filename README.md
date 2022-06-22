@@ -4,8 +4,6 @@
 - 💞️ Estoy buscando en colaborar con una industria de desarrollo de videojuegos.
 - 📫 Podras contactarme desde las siguientes redes sociales.
 - Facebook: https://www.facebook.com/danielramon.calvilloortiz/
-- Instagram: https://www.instagram.com/danyrcalvillo/
-- Whatsapp: 3339727957
 - Linkedin: https://www.linkedin.com/in/daniel-ramon-calvillo-ortiz-a59990194/
 
 <!---
